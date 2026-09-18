@@ -1,7 +1,7 @@
 {
   "id": "charnik-bridge",
   "name": "Чарник — мост к Initiative Tracker",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "minAppVersion": "1.7.2",
   "description": "Связывает стол Чарника с Initiative Tracker: инициатива, КД, хиты и состояния с планшетов игроков — в трекер; порядок хода, раунд и монстры — игрокам.",
   "author": "dnd-charlist",
